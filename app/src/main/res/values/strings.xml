@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Atividade Avaliativa</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_criar_conta">Criar conta</string>
+    <string name="textViewNome">Nome</string>
+    <string name="textViewTipo">Categoria</string>
+    <string name="textHint">Escreva aqui</string>
+    <string name="aluno">Aluno</string>
+    <string name="professor">Professor</string>
+</resources>
